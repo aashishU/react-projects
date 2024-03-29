@@ -1,5 +1,12 @@
 # React Router
 
+- Create Layout file.
+- Create routes and dynamic routes.
+- Create layouts.
+- Use of NavLink.
+- Extract id from params by using "useParams" hook.
+- Pre-loading data (fetching data from an api in advance).
+
 #### Package used - React-Router-Dom
 
 - Read about it on (https://reactrouter.com)
