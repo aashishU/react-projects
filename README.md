@@ -1,4 +1,4 @@
-# Projects and topics we learned from them.
+# Projects and Learned topics
 
 #### Counter
 
@@ -48,7 +48,7 @@
 - Here the different currency types sent by the api are keys and the exchange rate are there values (ie. key-value pairs).
 - Also "convert" button will run the convert() function that converts the currency into desired/selected currency.
 
-# React Router
+#### React Router
 
 - Create Layout file.
 - Create routes and dynamic routes.
@@ -57,7 +57,7 @@
 - Extract id from params by using "useParams" hook.
 - Pre-loading data (fetching data from an api in advance).
 
-# Mini Context
+#### Mini Context
 
 - Login functionality and other complex tasks made easy by using Context API.
 - Need for Context API or Redux.
@@ -70,7 +70,7 @@ _Context API_
 - This eliminates the need for passing the data through Prop between multiple components or components in hierarchy.
 - Any component can read or write data at any time, directly from the context(store).
 
-# Theme Switch to Dark Mode
+#### Theme Switch to Dark Mode
 
 - Here we have created a card.
 - The theme of the card can be toggled between dark and light mode by using Context API.
