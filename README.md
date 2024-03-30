@@ -69,3 +69,15 @@ _Context API_
 - A context is a store that holds all the data that needs to be accessed by the components of an App.
 - This eliminates the need for passing the data through Prop between multiple components or components in hierarchy.
 - Any component can read or write data at any time, directly from the context(store).
+
+# Theme Switch to Dark Mode
+
+- Here we have created a card.
+- The theme of the card can be toggled between dark and light mode by using Context API.
+- This is a better way to write code for Context than what we did in "mini-context".
+- Refer this program when creating and using Context.
+
+**The concept is not clear... Watch the video again**
+
+- [Tutorial Link](https://www.youtube.com/watch?v=4DqAvWonPAg)
+- timeStamp: 6:55:15
