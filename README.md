@@ -47,3 +47,25 @@
 - To get all the types of currencies available, we used "const options = Object.keys(currencyInfo)".
 - Here the different currency types sent by the api are keys and the exchange rate are there values (ie. key-value pairs).
 - Also "convert" button will run the convert() function that converts the currency into desired/selected currency.
+
+# React Router
+
+- Create Layout file.
+- Create routes and dynamic routes.
+- Create layouts.
+- Use of NavLink.
+- Extract id from params by using "useParams" hook.
+- Pre-loading data (fetching data from an api in advance).
+
+# Mini Context
+
+- Login functionality and other complex tasks made easy by using Context API.
+- Need for Context API or Redux.
+- Context API setup
+- How one component can update data and other component can use that updated data.
+
+_Context API_
+
+- A context is a store that holds all the data that needs to be accessed by the components of an App.
+- This eliminates the need for passing the data through Prop between multiple components or components in hierarchy.
+- Any component can read or write data at any time, directly from the context(store).
