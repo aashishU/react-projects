@@ -1,0 +1,10 @@
+RESOURCES
+
+// How things in React packages work like reactDom etc
+- React packages from github -> facebook -> react (repo) -> packages -> list of all packages
+
+// How things in React work like Hook, JSX etc
+- React (core) from github -> facebook -> react(repo) -> packages -> react -> src
+
+// React Fiber Architecture
+- github -> https://github.com/acdlite/react-fiber-architecture
